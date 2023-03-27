@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 📝 Deployed all codes and projects [https://github.com/faizan0505](https://github.com/faizan0505)
 
+- 📝 Md.Faizanuddin [PORTFOLIO](https://faizan0505.github.io/)
+
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express, MongoDB, MySQL**
 
 - 📫 How to reach me **md.faizan9t9@gmail.com**
