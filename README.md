@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **md.faizan9t9@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1usR-bK7wCMQwGnl-8lMzI2Y--QhHLcec/view?usp=share_link](https://drive.google.com/file/d/1usR-bK7wCMQwGnl-8lMzI2Y--QhHLcec/view?usp=share_link)
+- 📄 Resume [Click Here to see my Resume](https://drive.google.com/file/d/1usR-bK7wCMQwGnl-8lMzI2Y--QhHLcec/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
